@@ -1,0 +1,53 @@
+Start testing: Sep 24 16:37 India Standard Time
+----------------------------------------------------------
+1/1 Testing: GenCADUnitTests
+1/1 Test: GenCADUnitTests
+Command: "C:/Users/vishw/OneDrive/Desktop/GenCAD/build-debug/gencad_tests.exe"
+Directory: C:/Users/vishw/OneDrive/Desktop/GenCAD/build-debug
+"GenCADUnitTests" start time: Sep 24 16:37 India Standard Time
+Output:
+----------------------------------------------------------
+
+========================================
+ Running Suite: GeometryTests
+========================================
+ Finished Suite: GeometryTests with code: 0
+
+========================================
+ Running Suite: DocumentTests
+========================================
+ Finished Suite: DocumentTests with code: 0
+
+========================================
+ Running Suite: CommandTests
+========================================
+ Finished Suite: CommandTests with code: 0
+
+========================================
+ Running Suite: FileIoTests
+========================================
+ Finished Suite: FileIoTests with code: 0
+
+========================================
+ Running Suite: FunctionalE2ETest
+========================================
+ Finished Suite: FunctionalE2ETest with code: 0
+
+========================================
+ Running Suite: Phase2Tests
+========================================
+ Finished Suite: Phase2Tests with code: 0
+
+========================================
+ Running Suite: Phase3Tests
+========================================
+ Finished Suite: Phase3Tests with code: 0
+<end of output>
+Test time =  10.21 sec
+----------------------------------------------------------
+Test Passed.
+"GenCADUnitTests" end time: Sep 24 16:37 India Standard Time
+"GenCADUnitTests" time elapsed: 00:00:10
+----------------------------------------------------------
+
+End testing: Sep 24 16:37 India Standard Time

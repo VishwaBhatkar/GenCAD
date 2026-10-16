@@ -1,0 +1,18 @@
+Start testing: Sep 28 15:14 India Standard Time
+----------------------------------------------------------
+1/1 Testing: GenCADUnitTests
+1/1 Test: GenCADUnitTests
+Command: "C:/Users/vishw/OneDrive/Desktop/GenCAD/build-release/gencad_tests.exe"
+Directory: C:/Users/vishw/OneDrive/Desktop/GenCAD/build-release
+"GenCADUnitTests" start time: Sep 28 15:14 India Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Failed.
+"GenCADUnitTests" end time: Sep 28 15:14 India Standard Time
+"GenCADUnitTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Sep 28 15:14 India Standard Time

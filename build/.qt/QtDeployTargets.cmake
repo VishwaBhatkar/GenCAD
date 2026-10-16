@@ -1,0 +1,6 @@
+set(__QT_DEPLOY_TARGET_gencad_FILE C:/Users/vishw/OneDrive/Desktop/GenCAD/build/gencad.exe)
+set(__QT_DEPLOY_TARGET_gencad_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_gencad_RUNTIME_DLLS C:/Qt/6.8.2/msvc2022_64/bin/Qt6Widgets.dll;C:/Qt/6.8.2/msvc2022_64/bin/Qt6Network.dll;C:/Qt/6.8.2/msvc2022_64/bin/Qt6Gui.dll;C:/Qt/6.8.2/msvc2022_64/bin/Qt6Core.dll)
+set(__QT_DEPLOY_TARGET_gencad_tests_FILE C:/Users/vishw/OneDrive/Desktop/GenCAD/build/gencad_tests.exe)
+set(__QT_DEPLOY_TARGET_gencad_tests_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_gencad_tests_RUNTIME_DLLS C:/Qt/6.8.2/msvc2022_64/bin/Qt6Widgets.dll;C:/Qt/6.8.2/msvc2022_64/bin/Qt6Network.dll;C:/Qt/6.8.2/msvc2022_64/bin/Qt6Test.dll;C:/Qt/6.8.2/msvc2022_64/bin/Qt6Gui.dll;C:/Qt/6.8.2/msvc2022_64/bin/Qt6Core.dll)

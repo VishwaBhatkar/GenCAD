@@ -1,0 +1,71 @@
+{
+    "activeLayer": "0",
+    "constraints": [
+    ],
+    "entities": [
+        {
+            "color": "#dcdcdc",
+            "cx": 82,
+            "cy": 45,
+            "id": "eac64c58-5ef9-4095-859c-633b6194043f",
+            "layer": "0",
+            "radius": 75.92759709091287,
+            "strokeWidth": 1.5,
+            "type": "circle"
+        },
+        {
+            "color": "#00b4ff",
+            "dimType": "radius",
+            "dimX": 135.68840390298448,
+            "dimY": 98.68840390298448,
+            "id": "6815a41e-99f5-4d95-be42-e4f970aff566",
+            "layer": "0",
+            "precision": 2,
+            "strokeWidth": 1.5,
+            "targetEntityId": "eac64c58-5ef9-4095-859c-633b6194043f",
+            "targetFeatureIndex": 0,
+            "type": "dimension",
+            "unitSuffix": "mm",
+            "x1": 82,
+            "x2": 157.92759709091285,
+            "y1": 45,
+            "y2": 45
+        }
+    ],
+    "format": "gencad",
+    "gridSettings": {
+        "majorMultiplier": 10,
+        "snapSpacing": 10,
+        "snapToGrid": false,
+        "spacing": 10,
+        "visible": true
+    },
+    "layers": [
+        {
+            "color": "#dcdcdc",
+            "lineWeight": 1,
+            "locked": false,
+            "name": "0",
+            "visible": true
+        }
+    ],
+    "pageSettings": {
+        "customHeight": 210,
+        "customWidth": 297,
+        "limitsCheck": false,
+        "maxX": 297,
+        "maxY": 210,
+        "minX": 0,
+        "minY": 0,
+        "orientation": "Landscape",
+        "pageSize": "A4"
+    },
+    "unitSettings": {
+        "customScaleToMm": 1,
+        "customUnitName": "unit",
+        "precision": 2,
+        "unitType": "mm"
+    },
+    "units": "mm",
+    "version": "2.0"
+}

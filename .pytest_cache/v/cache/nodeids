@@ -1,0 +1,15 @@
+[
+  "backend/tests/test_ai.py::test_ai_analyze_drawing",
+  "backend/tests/test_ai.py::test_ai_auto_dimension",
+  "backend/tests/test_ai.py::test_ai_cleanup_duplicates",
+  "backend/tests/test_ai.py::test_ai_generate_bolt_pattern",
+  "backend/tests/test_ai.py::test_ai_generate_door_and_stairs",
+  "backend/tests/test_ai.py::test_ai_generate_rectangle",
+  "backend/tests/test_ai.py::test_ai_generate_room",
+  "backend/tests/test_ai.py::test_ai_rag_query",
+  "backend/tests/test_ai.py::test_ai_templates_and_standards",
+  "backend/tests/test_api.py::test_api_info",
+  "backend/tests/test_api.py::test_health_check",
+  "backend/tests/test_api.py::test_project_and_drawing_workflow",
+  "backend/tests/test_api.py::test_user_flow"
+]

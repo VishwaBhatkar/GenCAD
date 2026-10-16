@@ -1,0 +1,9 @@
+C:/Users/vishw/OneDrive/Desktop/GenCAD/build-debug/CMakeFiles/gencad.dir
+C:/Users/vishw/OneDrive/Desktop/GenCAD/build-debug/CMakeFiles/gencad_tests.dir
+C:/Users/vishw/OneDrive/Desktop/GenCAD/build-debug/CMakeFiles/test.dir
+C:/Users/vishw/OneDrive/Desktop/GenCAD/build-debug/CMakeFiles/edit_cache.dir
+C:/Users/vishw/OneDrive/Desktop/GenCAD/build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/vishw/OneDrive/Desktop/GenCAD/build-debug/CMakeFiles/gencad_autogen_timestamp_deps.dir
+C:/Users/vishw/OneDrive/Desktop/GenCAD/build-debug/CMakeFiles/gencad_autogen.dir
+C:/Users/vishw/OneDrive/Desktop/GenCAD/build-debug/CMakeFiles/gencad_tests_autogen_timestamp_deps.dir
+C:/Users/vishw/OneDrive/Desktop/GenCAD/build-debug/CMakeFiles/gencad_tests_autogen.dir
